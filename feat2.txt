@@ -1,0 +1,4 @@
+Here is a new feature haha
+- variable names camelCase
+- constant names SCREAMING_SNAKE_CASE
+- class name PascalCase
